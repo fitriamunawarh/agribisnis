@@ -1,0 +1,22 @@
+source,target
+mie instan,indofood
+mie instan,wings
+mie instan,ABC
+minyak goreng,indofood
+minyak goreng,wings
+susu,indofood
+susu,wings
+susu,ABC
+minuman,indofood
+minuman,wings
+minuman,ABC
+penyedap makanan,indofood
+penyedap makanan,ABC
+makanan ringan,indofood
+makanan ringan,wings
+makanan ringan,ABC
+kecap,indofood
+kecap,wings
+kecap,ABC
+sirup,indofood
+sirup,ABC
